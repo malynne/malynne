@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuelcamachopadilla" alt="manuelcamachopadilla" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://manuelcamacho.com](https://manuelcamacho.com)
+- 👨‍💻 All of my projects are available at [https://manuel-camacho.com](https://manuel-camacho.com)
 
 - 📫 How to reach me **manu320camacho@outlook.com**
 
