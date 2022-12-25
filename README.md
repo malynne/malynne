@@ -46,7 +46,6 @@
 <p align="center">
   <samp>
     <b>📫 How to reach me</b>
-    <br>
     <summary><samp><b></b></samp></summary>
     [<a href="https://twitter.com/manu320capa">twitter</a>]
     [<a href="https://www.instagram.com/manu320camacho">instagram</a>]
