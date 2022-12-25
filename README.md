@@ -42,7 +42,7 @@
       <samp>
         [<a href="https://twitter.com/manu320capa">twitter</a>]
         [<a href="https://www.instagram.com/manu320camacho">instagram</a>]
-        [<a href="manu320camacho@gmail.com">e-mail</a>]
+        [<a href="mailto:manu320camacho@gmail.com">e-mail</a>]
         [<a href="https://manuel-camacho.com/">portfolio</a>]
         [<a href="https://www.linkedin.com/in/manuel-camacho-padilla/">linkedin</a>]
       </samp>
