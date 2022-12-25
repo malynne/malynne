@@ -44,7 +44,7 @@
         [<a href="https://www.instagram.com/manu320camacho">instagram</a>]
         [<a href="manu320camacho@outlook.com">e-mail</a>]
         [<a href="https://manuel-camacho.com/">portfolio</a>]
-        [<a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-camacho-padilla/">linkedin</a>]
+        [<a href="https://www.linkedin.com/in/manuel-camacho-padilla/">linkedin</a>]
       </samp>
     </p>
 
