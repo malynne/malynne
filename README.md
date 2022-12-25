@@ -12,7 +12,7 @@
         Enthusiastic programmer for cybersecurity and application development.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=510&height=45&lines=Code+cool+programs+while+solving+problems."> 
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=510&height=45&lines=Cool+code+while+solving+problems."> 
       <br>
     </samp>
   </p>
