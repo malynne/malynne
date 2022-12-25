@@ -7,36 +7,35 @@
     <samp>
       <b>
         Hello There 👋
+        I'am Manuel Camacho
       <br>
-        I'm Manuel Camacho, a enthusiast programmer for cybersecurity and app development.
+        Enthusiastic programmer for cybersecurity and application development.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=510&height=45&lines=I+like+to+code+cool+programs+while+solving+problems."> 
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=510&height=45&lines=Code+cool+programs+while+solving+problems."> 
       <br>
     </samp>
   </p>
 
   <h2></h2><br>
 
-  <img
-  src="./Manu_Camacho_profile.png"
-  alt="Pixel Art Profile"
-  title="Pixel Art Profile made by IA"
-  style=" display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  max-width: 300px">
-
-  <br>
+  <p align="center">
+    <img
+      src="./Manu_Camacho_profile.png"
+      alt="Pixel Art Profile"
+      title="Pixel Art Profile made by IA"
+      style="
+      width: 50%;
+      max-width: 300px">
+    <br>
+  </p>
 
   <h2></h2><br>
 
-
   <details>
-    <summary><samp><b>More Info</b></samp></summary>
+  <summary><samp><b>More Info</b></samp></summary>
 
-    <h2></h2><br>
+  <h2></h2><br>
     <p align="center"><samp>How to reach me:</samp></p>
     <!-- Contact Me -->
     <p align="center">
@@ -49,11 +48,10 @@
       </samp>
     </p>
 
-    <h2></h2><br>
+  <h2></h2><br>
 
-
-    <!-- Languages and Tools Icons -->
-    <div align="center">
+  <!-- Languages and Tools Icons -->
+  <div align="center">
       <p align="center"><samp>Languages and Tools:</samp></p>
       <table>
         <tr>
@@ -62,34 +60,35 @@
       </table>
     </div>
 
-    <h2></h2><br>
+  <h2></h2><br>
 
-    <!-- Profile Views Badge -->
-    <p align="center">
+  <!-- Profile Views Badge -->
+  <p align="center">
       <samp>
       <a href="#--------">
-        <img src="https://komarev.com/ghpvc/?username=ManuelCamachoPadilla&label=Profile+Views&color=grey" alt="profile views" /> 
+        <img src="https://komarev.com/ghpvc/?username=ManuelCamachoPadilla&label=Profile+Views&color=grey" alt="profile views" />
       </a>
       </samp>
-    </p>
+  </p>
 
-    <!-- Github Trophy -->
-    <div align="center">
+  <!-- Github Trophy -->
+  <div align="center">
       <table>
         <tr>
           <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=rxyhn&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
         </tr>
       </table>
-    </div>
+  </div>
 
-    <!-- Github Stats -->
-    <div align="center">
+  <!-- Github Stats -->
+  <div align="center">
       <table>
         <tr>
           <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ManuelCamachoPadilla&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
           <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCamachoPadilla&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
         </tr>
       </table>
-    </div>
+  </div>
+
   </details>
 </div>
