@@ -45,7 +45,9 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    📫 How to reach me
+    <b>📫 How to reach me</b>
+    <br>
+    <summary><samp><b></b></samp></summary>
     [<a href="https://twitter.com/manu320capa">twitter</a>]
     [<a href="https://www.instagram.com/manu320camacho">instagram</a>]
     [<a href="manu320camacho@outlook.com">e-mail</a>]
@@ -59,7 +61,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=ManuelCamachoPadilla&label=Profile+Views&color=grey" alt="profile views" /> 
   </a>
   </samp>
 </p>
