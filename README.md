@@ -16,17 +16,6 @@
 
   <h2></h2><br>
 
-  <p align="center">
-    <img
-      src="./Manu_Camacho_profile.png"
-      alt="Pixel Art Profile"
-      title="Pixel Art Profile made by IA"
-      style="
-      width: 50%;
-      max-width: 300px">
-    <br>
-  </p>
-
   <h2></h2><br>
 
   <details>
