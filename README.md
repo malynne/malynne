@@ -11,10 +11,11 @@
       <br>
         Enthusiastic programmer for cybersecurity and application development.
       </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=510&height=45&lines=Cool+code+while+solving+problems."> 
+      <br>
     </samp>
   </p>
-
-  <h2></h2><br>
 
   <h2></h2><br>
 
