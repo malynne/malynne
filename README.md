@@ -25,11 +25,11 @@
     <!-- Contact Me -->
     <p align="center">
       <samp>
-        [<a href="https://twitter.com/manu320capa">twitter</a>]
-        [<a href="https://www.instagram.com/manu320camacho">instagram</a>]
+        [<a href="https://twitter.com/">twitter</a>]
+        [<a href="https://www.instagram.com/">instagram</a>]
         [<a href="mailto:malynne.dev@gmail.com">e-mail</a>]
-        [<a href="https://manuel-camacho.com/">portfolio</a>]
-        [<a href="https://www.linkedin.com/in/manuel-camacho-padilla/">linkedin</a>]
+        [<a href="/">portfolio</a>]
+        [<a href="">linkedin</a>]
       </samp>
     </p>
 
@@ -48,7 +48,7 @@
   <p align="center">
       <samp>
       <a href="#--------">
-        <img src="https://komarev.com/ghpvc/?username=ManuelCamachoPadilla&label=Profile+Views&color=grey" alt="profile views" />
+        <img src="https://komarev.com/ghpvc/?username=malynne&label=Profile+Views&color=grey" alt="profile views" />
       </a>
       </samp>
   </p>
@@ -66,8 +66,8 @@
   <div align="center">
       <table>
         <tr>
-          <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ManuelCamachoPadilla&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-          <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCamachoPadilla&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+          <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=malynne&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+          <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malynne&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
         </tr>
       </table>
   </div>
