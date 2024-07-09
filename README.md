@@ -25,11 +25,9 @@
     <!-- Contact Me -->
     <p align="center">
       <samp>
-        [<a href="https://twitter.com/">twitter</a>]
-        [<a href="https://www.instagram.com/">instagram</a>]
-        [<a href="mailto:malynne.dev@gmail.com">e-mail</a>]
-        [<a href="/">portfolio</a>]
-        [<a href="">linkedin</a>]
+        [<a href="https://www.instagram.com/_maria.lynne_/">instagram</a>]
+        [<a href="mailto:marialynnecp@gmail.com">e-mail</a>]
+        [<a href="https://www.linkedin.com/in/maria-lynne/">linkedin</a>]
       </samp>
     </p>
 
